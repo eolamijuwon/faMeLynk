@@ -1,14 +1,8 @@
-# faMeLynk
-
-# FaMeLynk \| Connecting Families and Friends
+# [FaMeLynk](https://eolamijuwon.shinyapps.io/faMeLynk/) | Connecting Families and Friends
 
 <p align="center">
 <img src="www/famelynk__dashboard.png" align="center" width="90%" alt="A screenshot of the FaMeLynk dashboard interface"/>
 </p>
-
-## Check It Out
-
--   Try a demo of the app on [shinyapps.io](https://gadenbuie.shinyapps.io/tweet-conf-dash/) or [my personal webpage](https://apps.garrickadenbuie.com/rstudioconf-2019/).
 
 This dashboard is designed to provide a clean, accessible, hyper-focused interface to explore and monitor tweets sent during a conference, event, or gathering (IRL or online).
 
