@@ -3,7 +3,7 @@
 # FaMeLynk \| Connecting Families and Friends
 
 <p align="center">
-<img src="www/famelynk_dashboard.jpg" align="center" width="75%" alt="A screenshot of the FaMeLynk dashboard interface"/>
+<img src="www/famelynk__dashboard.png" align="center" width="75%" alt="A screenshot of the FaMeLynk dashboard interface"/>
 </p>
 
 ## Check It Out
