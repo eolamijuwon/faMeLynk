@@ -12,15 +12,15 @@ Currently, the dashboard includes the following tabs and features. The opening p
 
 *22 January 2022*:
 
-    - Plot has been updated
-    
-    - Plot has been updated
+- Plot has been updated
+
+- Plot has been updated
 
 *18 January 2022*:
 
-    - Plot has been updated
-    
-    - Plot has been updated
+- Plot has been updated
+
+- Plot has been updated
 
 ## :pray: Thank you!
 
