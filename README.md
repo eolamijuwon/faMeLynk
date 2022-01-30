@@ -4,9 +4,20 @@
 <img src="www/famelynk__dashboard.png" align="center" width="90%" alt="A screenshot of the FaMeLynk dashboard interface"/>
 </p>
 
-This dashboard is designed to provide a clean, accessible, hyper-focused interface to explore and monitor tweets sent during a conference, event, or gathering (IRL or online).
+This dashboard is designed to provide a clean, accessible, hyper-focused interface to explore and monitor tweets about missing persons worldwide.
 
-Currently, the dashboard includes the following tabs and features. The opening page show a few statistics about the current volume of tweeting about the conference. If the conference is part of a larger Twitter community, you can also display overall statistics about tweeting in that community. For example, **rstudio::conf** tweets are from members of the broader **\#rstats** Twitter community.
+Currently, FaMeLynk is a single-page dashboard that includes quantitative features of tweets such as:
+
+- Volume (the total number of tweets streamed)
+
+- Frequency (the average number of tweets per day)
+
+- Engagement metrics (the average number of RTs/tweets)
+
+- Geographic distribution (The cumulative count of countries of persons who are missing)
+
+The dashboard also includes a snapshot of tweets in the database, such as the most recent tweets, the most popular and the least popular. You can also explore all tweets in the dashboards using the date filter.
+
 
 ## What's New
 
