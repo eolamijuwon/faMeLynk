@@ -14,7 +14,7 @@ Currently, FaMeLynk is a single-page dashboard that includes quantitative featur
 
 - Engagement metrics (the average number of RTs/tweets)
 
-- Geographic distribution (The cumulative count of countries of persons who are missing)
+- Geographic distribution (The cumulative count of countries of persons who are missing) - coming soon.
 
 The dashboard also includes a snapshot of tweets in the database, such as the most recent tweets, the most popular and the least popular. You can also explore all tweets in the dashboards using the date filter.
 
